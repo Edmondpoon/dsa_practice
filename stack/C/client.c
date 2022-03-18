@@ -5,5 +5,6 @@ int main(void) {
     Stack *s = createStack(max);
     push(s, 32);
     pop(s);
+    freeStack(&s);
     return 0;
 }
