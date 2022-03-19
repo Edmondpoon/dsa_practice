@@ -7,6 +7,7 @@ This repository contains source code for numerous different data structures and 
 
 # Current Data Structures
 - Stack
+- Queue
 
 # Current Algorithms
 - None
